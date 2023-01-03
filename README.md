@@ -10,3 +10,7 @@
 - [Python Collections parte 1: listas e tuplas](https://cursos.alura.com.br/course/python-collections-listas-e-tuplas)
 - [Python Collections parte 2: conjuntos e dicionários](https://cursos.alura.com.br/course/python-collections-conjuntos-e-dicionarios)
 - [Python e TDD: explorando testes unitários](https://cursos.alura.com.br/course/python-tdd-explorando-testes-unitarios)
+
+## Formação
+
+[Formação Python e orientação a objetos](https://cursos.alura.com.br/formacao-Python-linguagem)
